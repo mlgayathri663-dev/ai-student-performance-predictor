@@ -2,9 +2,7 @@
 
 A machine learning project that predicts a student's academic performance using study hours, attendance percentage, and previous exam score.
 
-## Features
-
-- Predicts student performance using Machine Learning
+## Featurestudent performance using Machine Learning
 - Uses a Decision Tree Classifier
 - Takes student details as input
 - Provides a performance prediction
@@ -40,3 +38,8 @@ Install the required libraries:
 
 ```bash
 python -m pip install pandas scikit-learn joblib
+
+##Project Output
+![Project Output](Predicted%20result.png)
+##project output
+![Project Output](Predicted%20result.png)
