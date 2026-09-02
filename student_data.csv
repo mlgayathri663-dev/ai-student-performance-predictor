@@ -1,0 +1,20 @@
+study_hours,attendance,previous_score,performance
+1,60,45,Needs Improvement
+2,65,50,Needs Improvement
+2,70,55,Average
+3,75,60,Average
+3,80,65,Average
+4,80,70,Good
+4,85,75,Good
+5,85,78,Good
+5,90,82,Excellent
+6,90,85,Excellent
+6,95,88,Excellent
+7,95,92,Excellent
+8,98,95,Excellent
+1,55,40,Needs Improvement
+2,68,52,Average
+3,72,58,Average
+4,78,68,Good
+5,88,80,Excellent
+6,92,86,Excellent
