@@ -40,6 +40,6 @@ Install the required libraries:
 python -m pip install pandas scikit-learn joblib
 
 ##Project Output
-![Project Output](predicted%20result.png)
+![Project Output](predicted_result.png)
 ##project output
-![Project Output](predicted%20result.png)
+![Project Output](predicted_result.png)
